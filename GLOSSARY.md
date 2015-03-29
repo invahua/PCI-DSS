@@ -9,4 +9,10 @@ ___________________________
 Health Insurance Portability and Accountability Act 简称HIPAA法案（健康保险携带和责任法案、医疗电子交换法案）。
 其目的是：Administrative Simplification （简化管理），以降低日益增长的医疗费用开支。
 
-_____________________________________
+___________________________
+
+
+#PCI-DSS
+Payment Card  Industry  Data Security   Standards支付卡行业数据安全标准
+
+___________________________
